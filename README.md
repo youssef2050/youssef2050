@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**youssef2050/youssef2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm <b>Android Developer<b>
 
 Here are some ideas to get you started:
 
