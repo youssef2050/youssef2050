@@ -150,11 +150,14 @@
 id="FIELD_LNK1">https://github.com/youssef2050</span>
 </li>
 <li dependency="LNK2"><span class="field"
-id="FIELD_LNK2">https://www.linkedin.com/in/youssef-ezzeldeen-246726141/</span>
+id="FIELD_LNK2"></span>
 </li>
-<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg.png" style="width:10px;height:10px;"> I’m currently working at <a href="https://www.upwork.com/freelancers/~0152fc09f67e603c2d" rel="nofollow">Upwork</a><br></li>
-<li> I’m currently working at <a href="https://mostaql.com/u/youssef_saeb" rel="nofollow">Mostaql</a><br></li>
+   <li><img src ="https://mostaql.hsoubcdn.com/public/assets/cards/favicon.png" width="20" height="20" align="center"> I’m currently working at <a href="https://www.linkedin.com/in/youssef-ezzeldeen-246726141/" rel="nofollow">Mostaql</a></li>
+   <li><img src ="https://mostaql.hsoubcdn.com/public/assets/cards/favicon.png" width="20" height="20" align="center"> I’m currently working at <a href="https://mostaql.com/u/youssef_saeb" rel="nofollow">Mostaql</a></li>
+<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg.png" width="20" height="20" align="center"><per> I’m currently working at </per><a href="https://www.upwork.com/freelancers/~0152fc09f67e603c2d" rel="nofollow">Upwork</a></li>
+<li><img src ="https://mostaql.hsoubcdn.com/public/assets/cards/favicon.png" width="20" height="20" align="center"> I’m currently working at <a href="https://mostaql.com/u/youssef_saeb" rel="nofollow">Mostaql</a></li>
 </ul>
 </div>
+
                                        
   
