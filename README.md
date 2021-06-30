@@ -152,7 +152,7 @@ id="FIELD_LNK1">https://github.com/youssef2050</span>
 <li dependency="LNK2"><span class="field"
 id="FIELD_LNK2">https://www.linkedin.com/in/youssef-ezzeldeen-246726141/</span>
 </li>
-<li> I’m currently working at <a href="https://www.upwork.com/freelancers/~0152fc09f67e603c2d" rel="nofollow">Upwork</a><br></li>
+<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg.png" style="width:10px;height:10px;"> I’m currently working at <a href="https://www.upwork.com/freelancers/~0152fc09f67e603c2d" rel="nofollow">Upwork</a><br></li>
 <li> I’m currently working at <a href="https://mostaql.com/u/youssef_saeb" rel="nofollow">Mostaql</a><br></li>
 </ul>
 </div>
