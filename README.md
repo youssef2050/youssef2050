@@ -45,11 +45,12 @@
                                                     </ul>
                                                 </span>
                                             </div>
-<br/>
- <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=youssef2050)<br/>
+ <div> 
+<br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=youssef2050)<br/>
  
- <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef2050&layout=compact&theme=radical)<br/>
- <div class="singlecolumn">
+<br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef2050&layout=compact&theme=radical)<br/>
+  </div>
+ <div>
  <ul>
 <li dependency="LNK1"><span class="field"
 id="FIELD_LNK1">https://github.com/youssef2050</span>
