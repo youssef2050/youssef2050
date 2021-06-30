@@ -137,15 +137,11 @@
                                                     <span class="field" id="FIELD_HPHN">+972 59 228 0825</span>
                                                     <span class="field" id="FIELD_CPHN"></span>
                                                 </div>
-                                                <div class="dispBlock pb5" dependency="EMAI">
-                                                    <span class="txt-bold"><span
-                                                            class="xslt_static_change">Email</span></span><span
-                                                        class="mukcolon">: </span><span class="colon"> : </span>
-                                                    <span class="field" id="FIELD_EMAI">yousf2050@hotmail.com</span>
-                                                </div>
-                                                <br/>
  <div>
  <ul>
+  
+   <li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(9).png" width="20" height="20" align="center"> contact with me on<a href="mailto:yousf2050@hotmail.com" rel="nofollow">Email</a></li>
+   
 <li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(2).png" width="20" height="20" align="center"> Follow Me on<a href="https://www.facebook.com/yousf.ezzaldeen/" rel="nofollow">Facebook</a></li>
    
 <li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(5).png" width="20" height="20" align="center"> Follow Me on<a href="https://www.instagram.com/yousfezzaldeen/" rel="nofollow">Instagram</a></li>
