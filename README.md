@@ -140,19 +140,19 @@
  <div>
  <ul>
   
-   <li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(9).png" width="20" height="20" align="center"> contact with me on<a href="mailto:yousf2050@hotmail.com" rel="nofollow">Email</a></li>
+   <li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(9).png" width="20" height="20" align="center"> contact with me on <a href="mailto:yousf2050@hotmail.com" rel="nofollow">Email</a></li>
    
-<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(2).png" width="20" height="20" align="center"> Follow Me on<a href="https://www.facebook.com/yousf.ezzaldeen/" rel="nofollow">Facebook</a></li>
+<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(2).png" width="20" height="20" align="center"> Follow Me on <a href="https://www.facebook.com/yousf.ezzaldeen/" rel="nofollow">Facebook</a></li>
    
-<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(5).png" width="20" height="20" align="center"> Follow Me on<a href="https://www.instagram.com/yousfezzaldeen/" rel="nofollow">Instagram</a></li>
+<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(5).png" width="20" height="20" align="center"> Follow Me on <a href="https://www.instagram.com/yousfezzaldeen/" rel="nofollow">Instagram</a></li>
    
-<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(6).png" width="20" height="20" align="center"> Follow Me on<a href="https://twitter.com/yousfezzaldeen" rel="nofollow">Twitter</a></li>
+<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(6).png" width="20" height="20" align="center"> Follow Me on <a href="https://twitter.com/yousfezzaldeen" rel="nofollow">Twitter</a></li>
    
-<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(8).png" width="20" height="20" align="center"> contact with me on<a href="https://wa.me/+972592280825" rel="nofollow">Whatsapp</a></li>
+<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(8).png" width="20" height="20" align="center"> contact with me on <a href="https://wa.me/+972592280825" rel="nofollow">Whatsapp</a></li>
    
-<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(7).png" width="20" height="20" align="center"> Follow Me on<a href="https://www.linkedin.com/in/youssef-ezzeldeen-246726141/" rel="nofollow">Linked In</a></li>
+<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(7).png" width="20" height="20" align="center"> Follow Me on <a href="https://www.linkedin.com/in/youssef-ezzeldeen-246726141/" rel="nofollow">Linked In</a></li>
    
-<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(4).png" width="20" height="20" align="center"> Follow Me on<a href="https://github.com/youssef2050" rel="nofollow">GitHub</a></li>
+<li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(4).png" width="20" height="20" align="center"> Follow Me on <a href="https://github.com/youssef2050" rel="nofollow">GitHub</a></li>
    
 <li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(3).png" width="20" height="20" align="center"><per> I’m currently working at </per><a href="https://www.upwork.com/freelancers/~0152fc09f67e603c2d" rel="nofollow">Upwork</a></li>
    
