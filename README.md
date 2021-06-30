@@ -108,7 +108,12 @@
                                                     </ul>
                                                 </span>
                                             </div>
- <div> 
+ <div align="center"> 
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Nurbk229/count.svg" />
+</p>
+<br/> 
   
 <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=youssef2050)<br/>
  
@@ -147,6 +152,8 @@ id="FIELD_LNK1">https://github.com/youssef2050</span>
 <li dependency="LNK2"><span class="field"
 id="FIELD_LNK2">https://www.linkedin.com/in/youssef-ezzeldeen-246726141/</span>
 </li>
+<li> I’m currently working at <a href="https://www.upwork.com/freelancers/~0152fc09f67e603c2d" rel="nofollow">Upwork</a><br></li>
+<li> I’m currently working at <a href="https://mostaql.com/u/youssef_saeb" rel="nofollow">Mostaql</a><br></li>
 </ul>
 </div>
                                        
