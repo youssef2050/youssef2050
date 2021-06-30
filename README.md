@@ -1,4 +1,4 @@
-<div class="sectiontitle" id="SECTIONNAME_SUMM">Professional Summary
+<div><h3>Professional Summary</h3>
                                        </div><br/>
 <div>
                                                 <p>Exceptional U/I and U/X- oriented Software Engineer with
@@ -17,7 +17,7 @@
                                                     successful at building Android applications. Well-educated and
                                                     poised with 4 years of expertise.</p>
                                             </div>
-                                            <div class="sectiontitle" id="SECTIONNAME_SUMM">Key things I've dealt with:
+  <div><h3>Key things I've dealt with:</h3>
                                        </div>
                                             
  <div>
@@ -78,7 +78,7 @@
                                                     </ul>
                                                 </span>
   </div>
-<div class="sectiontitle" id="SECTIONNAME_HILT">Skills
+<div><h3>Skills</h3>
                             </div>
  <div>
                                                 <span>
@@ -120,24 +120,7 @@
 <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef2050&layout=compact&theme=radical)<br/>
   </div>
 
- <div class="sectiontitle" id="SECTIONNAME_CNTC">Contact</div>
-                                                                           <div class="zipsuffix pb5" dependency="ADDR|STRT|CITY|STAT|ZIPC">
-                                                    <span class="txt-bold"><span
-                                                            class="xslt_static_change">Address</span></span><span
-                                                        class="mukcolon">: </span><span class="colon"> : </span>
-                                                    <span class="field" id="FIELD_STRT">Palestine</span>
-                                                    <span class="field" id="FIELD_CITY">Gaza,</span>
-                                                    <span class="field" id="FIELD_STAT">Beach Camp,</span>
-                                                    <span class="field" id="FIELD_ZIPC">00970</span>
-                                                </div>
-                                               <div class="dispBlock pb5" dependency="HPHN|CPHN">
-                                                    <span class="txt-bold"><span
-                                                            class="xslt_static_change">Phone</span></span><span
-                                                        class="mukcolon">: </span><span class="colon"> : </span>
-                                                    <span class="field" id="FIELD_HPHN">+972 59 228 0825</span>
-                                                    <span class="field" id="FIELD_CPHN"></span>
-                                                </div>
- <div>
+ <div><h3>Contact</h3>
  <ul>
   
    <li><img src ="https://github.com/youssef2050/youssef2050/blob/main/pngegg%20(9).png" width="20" height="20" align="center"> contact with me on <a href="mailto:yousf2050@hotmail.com" rel="nofollow">Email</a></li>
