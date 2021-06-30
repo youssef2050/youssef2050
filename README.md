@@ -1,3 +1,5 @@
+<div class="sectiontitle" id="SECTIONNAME_SUMM">Professional Summary
+                                       </div><br/>
 <div>
                                                 <p>Exceptional U/I and U/X- oriented Software Engineer with
                                                     creativity and foresight in tailoring apps and programs to fit
@@ -73,8 +75,7 @@
                                                     </ul>
                                                 </span>
   </div>
-<div class="sectiontitle" id="SECTIONNAME_HILT">Skills<span
-                                        class="rename-section text-rename"> Rename</span></div>
+<div class="sectiontitle" id="SECTIONNAME_HILT">Skills
                             </div>
  <div>
                                                 <span>
@@ -111,10 +112,8 @@
 <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef2050&layout=compact&theme=radical)<br/>
   </div>
 
- <div class="sectiontitle" id="SECTIONNAME_CNTC">Contact<span
-                                        class="rename-section text-rename"> Rename</span></div>
-                            </div
-                                                <div class="zipsuffix pb5" dependency="ADDR|STRT|CITY|STAT|ZIPC">
+ <div class="sectiontitle" id="SECTIONNAME_CNTC">Contact</div>
+                                                                           <div class="zipsuffix pb5" dependency="ADDR|STRT|CITY|STAT|ZIPC">
                                                     <span class="txt-bold"><span
                                                             class="xslt_static_change">Address</span></span><span
                                                         class="mukcolon">: </span><span class="colon"> : </span>
