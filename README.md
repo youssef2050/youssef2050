@@ -17,6 +17,9 @@
                                                     successful at building Android applications. Well-educated and
                                                     poised with 4 years of expertise.</p>
                                             </div>
+                                            <div class="sectiontitle" id="SECTIONNAME_SUMM">Key things I've dealt with:
+                                       </div>
+                                            
  <div>
                                             <span>
                                                     <ul>
