@@ -1,3 +1,6 @@
+
+<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif"><img src="https://github.com/youssef2050/youssef2050/blob/main/1_zzTEyTwyy7jXibtqVWg84Q.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
+<br>
 <div><h3>Professional Summary</h3>
                                        </div><br/>
 <div>
@@ -78,6 +81,9 @@
                                                     </ul>
                                                 </span>
   </div>
+  <br>
+  <p align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif"><img src="https://github.com/youssef2050/youssef2050/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
+<br>
 <div><h3>Skills</h3>
                             </div>
  <div>
